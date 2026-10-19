@@ -5,6 +5,8 @@ Tarjetas de estudio y **repaso espaciado (FSRS)** para secundaria, pensado para
 pesado. Trae **mazos predefinidos de 1°, 2° y 3° de secundaria** (materias del programa
 mexicano) y permite crear, editar e importar más.
 
+**▶ Pruébala en vivo: https://f1zero.github.io/studyflow/**
+
 > Estado: **MVP funcional (Fase 1)**. App real y usable, 100% local. La sincronización
 > en línea docente↔grupo está planeada para una fase posterior (ver *Hoja de ruta*).
 
